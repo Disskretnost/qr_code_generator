@@ -1,0 +1,8 @@
+t=2023-03-13T12:04:43+0000 lvl=info msg="no configuration paths supplied"
+t=2023-03-13T12:04:43+0000 lvl=info msg="using configuration at default config path" path=/home/kycherenko/.config/ngrok/ngrok.yml
+t=2023-03-13T12:04:43+0000 lvl=info msg="open config file" path=/home/kycherenko/.config/ngrok/ngrok.yml err=nil
+t=2023-03-13T12:04:43+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-03-13T12:04:43+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-03-13T12:04:43+0000 lvl=info msg="client session established" obj=csess id=bcb9260bfaaa
+t=2023-03-13T12:04:44+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://c6d5-91-219-234-230.eu.ngrok.io
+t=2023-03-13T12:05:29+0000 lvl=info msg="join connections" obj=join id=7e669b491fa8 l=127.0.0.1:8080 r=140.82.115.253:30447
